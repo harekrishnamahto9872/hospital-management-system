@@ -314,6 +314,6 @@ else {
 cout<<"sorry pleas enter correcr choice"<<endl;
 }
 
-cout<<endl<<"                      ********              By Ali Alzantot          ********     "<<endl<<endl;
+
     return 0;
 }
